@@ -1,0 +1,516 @@
+{
+    "easylevel":[
+        {
+            "id" : "1",
+            "question" : "What is the capital of Turkey?",
+            "answer1" : " Ankara",
+            "answer2" : " Istanbul",
+            "answer3" : " Edirne",
+            "answer4" : " Bursa",
+            "ans" : 1
+        },
+        {
+            "id" : "2",
+            "question" : "Who was the first nobel winner?",
+            "answer1" : " Albert Einstein",
+            "answer2" : " Maria Curie",
+            "answer3" : " Aziz Sancar",
+            "answer4" : " Wilhelm Conrad Röntgen",
+            "ans" : 4
+        },
+        {
+            "id" : "3",
+            "question" : "Which team has more UCL cups?",
+            "answer1" : " Fenerbahçe",
+            "answer2" : " Real Madrid",
+            "answer3" : " Bayern München",
+            "answer4" : " AC Milan",
+            "ans" : 2
+        },
+        {
+            "id" : "5",
+            "question" : "How many stripes are there on US flag?",
+            "answer1" : " 13",
+            "answer2" : " 12",
+            "answer3" : " 15",
+            "answer4" : " 17",
+            "ans" : 1
+        },
+        {
+            "id" : "6",
+            "question" : "What's the national flower of Japan?",
+            "answer1" : " Orchied",
+            "answer2" : " Lily",
+            "answer3" : " Rose",
+            "answer4" : " Cherry Blossom",
+            "ans" : 4
+        },
+        {
+            "id" : "7",
+            "question" : "What country has the most islands in the world?",
+            "answer1" : " Japan",
+            "answer2" : " Indonesia",
+            "answer3" : " Great Britain",
+            "answer4" : " Sweden",
+            "ans" : 4
+        },
+        {
+            "id" : "8",
+            "question" : "What’s the capital of Canada?",
+            "answer1" : " Ottawa",
+            "answer2" : " Toronto",
+            "answer3" : " Quebec",
+            "answer4" : " Vancouver",
+            "ans" : 1
+        },
+        {
+            "id" : "9",
+            "question" : "What is the longest river in the world?",
+            "answer1" : " Ganj",
+            "answer2" : " Amazon",
+            "answer3" : " Nile",
+            "answer4" : " Thames",
+            "ans" : 3
+        },
+        {
+            "id" : "10",
+            "question" : "Where was the first modern Olympic Games held?",
+            "answer1" : " Greece",
+            "answer2" : " USA",
+            "answer3" : " France",
+            "answer4" : " Germany",
+            "ans" : 1
+        },
+        {
+            "id" : "11",
+            "question" : "When did World War II end?",
+            "answer1" : " 1918",
+            "answer2" : " 1945",
+            "answer3" : " 1925",
+            "answer4" : " 1936",
+            "ans" : 2
+        },
+        {
+            "id" : "12",
+            "question" : "What is the smallest country in the world?",
+            "answer1" : " Monaco",
+            "answer2" : " Vatican City",
+            "answer3" : " Andorra",
+            "answer4" : " Lichenstein",
+            "ans" : 2
+        },
+        {
+            "id" : "13",
+            "question" : "What is the largest island in the Mediterranean Sea?",
+            "answer1" : " Crete",
+            "answer2" : " Sicily",
+            "answer3" : " Cyprus",
+            "answer4" : " Malta",
+            "ans" : 2
+        },
+        {
+            "id" : "14",
+            "question" : "Which sport is known as the 'king of sports'?",
+            "answer1" : " Football",
+            "answer2" : " Badminton",
+            "answer3" : " Basketball",
+            "answer4" : " Boxing",
+            "ans" : 1
+        },
+        {
+            "id" : "15",
+            "question" : "What is the only sport to be played on the moon?",
+            "answer1" : " Golf",
+            "answer2" : " Football",
+            "answer3" : " Hockey",
+            "answer4" : " Badminton",
+            "ans" : 1
+        },
+        {
+            "id" : "16",
+            "question" : "Which country became the first in the world to accept Bitcoin as legal tender?",
+            "answer1" : " Belgium",
+            "answer2" : " USA",
+            "answer3" : " El Salvador",
+            "answer4" : " Venezuela",
+            "ans" : 3
+        },
+        {
+            "id" : "17",
+            "question" : "What is the capital of Russia?",
+            "answer1" : " St.Petersburg",
+            "answer2" : " Perm",
+            "answer3" : " Krasnodar",
+            "answer4" : " Moscow",
+            "ans" : 4
+        },
+        {
+            "id" : "18",
+            "question" : "Who developed the theory of relativity?",
+            "answer1" : " Maria Curie",
+            "answer2" : " Nicola Tesla",
+            "answer3" : " Albert Einstein",
+            "answer4" : " Isaac Newton",
+            "ans" : 3
+        },
+        {
+            "id" : "19",
+            "question" : "Who painted “Starry Night”?",
+            "answer1" : " Vincent Van Gogh",
+            "answer2" : " Rembrandt",
+            "answer3" : " Leonardo Da Vinci",
+            "answer4" : " Picasso",
+            "ans" : 1
+        },
+        {
+            "id" : "20",
+            "question" : "Who wrote “The Art of War”?",
+            "answer1" : " Skandenberg",
+            "answer2" : " Erwin Rommel",
+            "answer3" : " Sun Tzu",
+            "answer4" : " Alexander the Great",
+            "ans" : 3
+        },
+        {
+            "id" : "21",
+            "question" : "What is the currency of Japan?",
+            "answer1" : " Lira",
+            "answer2" : " Yen",
+            "answer3" : " Rubble",
+            "answer4" : " Mark",
+            "ans" : 2
+        },
+        {
+            "id" : "22",
+            "question" : "Who was the first woman in space?",
+            "answer1" : " Anna Lee Fisher",
+            "answer2" : " Margaret Rhea Seddon",
+            "answer3" : " Shannon Lucid",
+            "answer4" : " Valentina Tereshkova",
+            "ans" : 4
+        },
+        {
+            "id" : "23",
+            "question" : "Which country is known as the “Land of the Rising Sun”?",
+            "answer1" : " Great Britain",
+            "answer2" : " USA",
+            "answer3" : " Japan",
+            "answer4" : " Bhutan",
+            "ans" : 3
+        },
+        {
+            "id" : "24",
+            "question" : "What is the largest planet in our solar system?",
+            "answer1" : " Jupiter",
+            "answer2" : " Sun",
+            "answer3" : " Earth",
+            "answer4" : " Saturn",
+            "ans" : 1
+        },
+        {
+            "id" : "25",
+            "question" : "In which year did the Titanic sink?",
+            "answer1" : " 1901",
+            "answer2" : " 1899",
+            "answer3" : " 1912",
+            "answer4" : " 1925",
+            "ans" : 3
+        }
+        
+    ],
+    "mediumlevel":[
+        {
+            "id" : "1",
+            "question" : "What is the chemical symbol for oxygen?",
+            "answer1" : " O",
+            "answer2" : " H",
+            "answer3" : " Z",
+            "answer4" : " M",
+            "ans" : 1
+        },
+        {
+            "question" : "What is the smallest bone in the human body?",
+            "answer1" : " Skull",
+            "answer2" : " Cranium",
+            "answer3" : " the Stapes Bone",
+            "answer4" : " Wrist",
+            "ans" : 3
+        },
+        {
+            "question" : "Who wrote the famous novel To Kill a Mockingbird?",
+            "answer1" : " George R.R Martin",
+            "answer2" : " E.M Foster",
+            "answer3" : " Harper Lee",
+            "answer4" : " Lev Tolstoy",
+            "ans" : 3
+        },
+        {
+            "question" : "What is the capital city of Bhutan?",
+            "answer1" : " Lhasa",
+            "answer2" : " Aden",
+            "answer3" : " Java",
+            "answer4" : " Thimphu",
+            "ans" : 4
+        },
+        {
+            "question" : "In which year did the Chernobyl nuclear disaster occur?",
+            "answer1" : " 1986",
+            "answer2" : " 1991",
+            "answer3" : " 1999",
+            "answer4" : " 1982",
+            "ans" : 1
+        },
+        {
+            "question" : "Which novel begins with the line, 'Call me Ishmael'?",
+            "answer1" : " Moby Dick",
+            "answer2" : " Anne Karenina",
+            "answer3" : " Prayer",
+            "answer4" : " Gambler",
+            "ans" : 1
+        },
+        {
+            "question" : "In Greek mythology, who is the goddess of wisdom and warfare?",
+            "answer1" : " Aphrodite",
+            "answer2" : " Hercul",
+            "answer3" : " Hades",
+            "answer4" : " Athena",
+            "ans" : 4
+        },
+        {
+            "question" : "Which country are you visiting if you are in the Taj Mahal?",
+            "answer1" : " Pakistan",
+            "answer2" : " India",
+            "answer3" : " Afghanstan",
+            "answer4" : " Bangladesh",
+            "ans" : 2
+        },
+        {
+            "question" : "Which element has the chemical symbol 'W'?",
+            "answer1" : " Tungsten",
+            "answer2" : " Chrom",
+            "answer3" : " Vanadium",
+            "answer4" : " Uranium",
+            "ans" : 1
+        },
+        {
+            "question" : "What are the primary colors?",
+            "answer1" : " Green,red and blue",
+            "answer2" : " Black,gray and white",
+            "answer3" : " Red,yellow and blue",
+            "answer4" : " Yellow,green and blue",
+            "ans" : 3
+        },
+        {
+            "question" : "What is the name of Homer's eldest daughter in The Simpsons?",
+            "answer1" : " Alexa",
+            "answer2" : " Meggy",
+            "answer3" : " Lisa",
+            "answer4" : " Lena",
+            "ans" : 3
+        },
+        {
+            "question" : "Who is the first woman war pilot?",
+            "answer1" : " Sabiha Gökçen",
+            "answer2" : " Amelia Earhart",
+            "answer3" : " Baroness Raymonde de Laroche",
+            "answer4" : " Elise Deroche",
+            "ans" : 1
+        },
+        {
+            "question" : "The line 'To be or not to be' comes from which Shakespeare play?",
+            "answer1" : " Othello",
+            "answer2" : " Julius Ceaser",
+            "answer3" : " Romeo and Juliet",
+            "answer4" : " Hamlet",
+            "ans" : 4
+        },
+        {
+            "question" : "Which American road runs from Chicago to Los Angeles?",
+            "answer1" : " Route 56",
+            "answer2" : " Route 66",
+            "answer3" : " Route 1",
+            "answer4" : " Route 48",
+            "ans" : 2
+        }
+    ],
+    "interlevel":[
+        {
+            "question" : "What does DNA stand for?",
+            "answer1" : " Deoxyribose Nitrogen Acid",
+            "answer2" : " Deoxyribonucleic Acid",
+            "answer3" : " Deoxyribonicle Acid",
+            "answer4" : " Deoxidized Nucleic Acid",
+            "ans" : 2
+        },
+        {
+            "question" : "Whose face is on a $5 bill (the US)?",
+            "answer1" : " George Washington",
+            "answer2" : " Benjamin Franklin",
+            "answer3" : " Abraham Lincoln",
+            "answer4" : " Thomas Jefferson",
+            "ans" : 3
+        },
+        {
+            "question" : "Who composed the opera 'Madame Butterfly'?",
+            "answer1" : " Wolfgang Amadeus Mozart",
+            "answer2" : " Ludwig van Beethoven",
+            "answer3" : " Johann Sebastian Bach",
+            "answer4" : " Giacomo Puccini",
+            "ans" : 4
+        },
+        {
+            "question" : "'E=mc^2' is known as?",
+            "answer1" : " Heisenberg's Uncertainty Principle",
+            "answer2" : " Newton's Law of Motion",
+            "answer3" : " Einstein's Theory of Relativity",
+            "answer4" : " Mendel's Law of Inheritance",
+            "ans" : 3
+        },
+        {
+            "question" : "How many stars are there on the flag of China?",
+            "answer1" : " 1",
+            "answer2" : " 3",
+            "answer3" : " 5",
+            "answer4" : " 7",
+            "ans" : 3
+        },
+        {
+            "question" : "Who first said, 'I think, therefore I am'?",
+            "answer1" : " Plato",
+            "answer2" : " Aristotle",
+            "answer3" : " Descartes",
+            "answer4" : " Socrates",
+            "ans" : 3
+        },
+        {
+            "question" : "Which letter is representative of 50 in Roman numerals?",
+            "answer1" : " L",
+            "answer2" : " XXXXX",
+            "answer3" : " XVX",
+            "answer4" : " M",
+            "ans" : 1
+        },
+        {
+            "question" : "Which artist painted The Birth of Venus?",
+            "answer1" : " Johannes Vermeer",
+            "answer2" : " Michelangelo",
+            "answer3" : " Sandro Botticelli",
+            "answer4" : " Gustav Klimt",
+            "ans" : 3
+        },
+        {
+            "question" : "What type of animal is featured on Peru's flag?",
+            "answer1" : " Vicuna",
+            "answer2" : " Bear",
+            "answer3" : " Spider",
+            "answer4" : " Eagle",
+            "ans" : 1
+        },
+        {
+            "question" : "An instrument store gives a 10% discount to all students off the original cost of an instrument. During a back to school sale an additional 15% is taken off the discounted price. Julie, a student at the local high school, purchases a flute for $306. How much did it originally cost?",
+            "answer1" : " 325",
+            "answer2" : " 375",
+            "answer3" : " 400",
+            "answer4" : " 408",
+            "ans" : 3
+        },
+        {
+            "question" : "Which of the following values is NOT equal to 34(58+9)?",
+            "answer1" : " 34 * 67",
+            "answer2" : " 58(34+9)",
+            "answer3" : " 34 * 58 + 34 * 9",
+            "answer4" : " (9 + 58) 34",
+            "ans" : 2
+        },
+        {
+            "question" : "If 3x=6x-15 then x + 8=?",
+            "answer1" : " 5",
+            "answer2" : " 10",
+            "answer3" : " 11",
+            "answer4" : " 13",
+            "ans" : 4
+        },
+        {
+            "question" : "What is 1/9 of 9?",
+            "answer1" : " 1/9",
+            "answer2" : " 0",
+            "answer3" : " 1",
+            "answer4" : " 3",
+            "ans" : 3
+        },
+        {
+            "question" : "If 3x + 5x = -8, then x + 1 =?",
+            "answer1" : " -1",
+            "answer2" : " -2",
+            "answer3" : " 0",
+            "answer4" : " 1",
+            "ans" : 3
+        },
+        {
+            "question" : "Two angle in a triangle equal 120°. What is the measure of the third angle?",
+            "answer1" : " 60",
+            "answer2" : " 40",
+            "answer3" : " 100",
+            "answer4" : " 90",
+            "ans" : 1
+        }
+    ],
+    "expertlevel":[
+        {
+            "question" : "How many constellations are recognized by the International Astronomical Union?",
+            "answer1" : " 88",
+            "answer2" : " 100",
+            "answer3" : " 92",
+            "answer4" : " 76",
+            "ans" : 1
+        },
+        {
+            "question" : "Who was the last Tsar of Russia? ",
+            "answer1" : " Ivan II",
+            "answer2" : " Yaroslav III",
+            "answer3" : " Nicholas II",
+            "answer4" : " Vladimir Lenin",
+            "ans" : 3
+        },
+        {
+            "question" : "What is the 4th letter of the Greek alphabet?",
+            "answer1" : " Gamma",
+            "answer2" : " Alfa",
+            "answer3" : " Delta",
+            "answer4" : " Dseta",
+            "ans" : 3
+        },
+        {
+            "question" : "What is the largest Spanish-speaking city in the world? ",
+            "answer1" : " Los Angeles",
+            "answer2" : " Mexico City",
+            "answer3" : " Madrid",
+            "answer4" : " Sevilla",
+            "ans" : 2
+        },
+        {
+            "question" : "On what continent would you find the world’s largest desert?",
+            "answer1" : " Antarctica",
+            "answer2" : " Africa",
+            "answer3" : " Asia",
+            "answer4" : " North America",
+            "ans" : 1
+        },
+        {
+            "question" : "Which country features a shipwreck on its national flag? ",
+            "answer1" : " Turks and Caicos Islands",
+            "answer2" : " Somalia",
+            "answer3" : " Eritre",
+            "answer4" : " Bermuda",
+            "ans" : 4
+        },
+        {
+            "question" : "How many time zones are there in Russia?",
+            "answer1" : " 11",
+            "answer2" : " 8",
+            "answer3" : " 23",
+            "answer4" : " 32",
+            "ans" : 1
+        }
+    ]
+}
