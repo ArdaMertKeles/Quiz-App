@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# This is a quiz app with chapters [Live Server](https://quizappwithchapters.netlify.app/)
+You can use your 4 jokers and there is sound effects providing atmosphere.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Ekran görüntüsü 2024-10-06 185515](https://github.com/user-attachments/assets/6ba9e00b-1595-499e-a36a-623eb7700853)
 
-## Available Scripts
+![Ekran görüntüsü 2024-10-06 185537](https://github.com/user-attachments/assets/62cdad2a-dcd7-4fac-9ab4-2bd50af81865)
 
-In the project directory, you can run:
+![Ekran görüntüsü 2024-10-06 185602](https://github.com/user-attachments/assets/04cf46a8-57aa-4ad5-87f0-a69c328b3a90)
 
 ### `npm start`
 
